@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.9 - 2016-05-10
+
+ * test version
+
 ## 0.6.8 - 2015-09-18
 
  * #129 - fix Snappy `uncompressed` declaration
